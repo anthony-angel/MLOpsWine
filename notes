@@ -1,0 +1,16 @@
+train/test split, seems like a standard train and test on the model to see how it runs.
+
+Finch Computing is a startup that uses a combination of machine learning and symbolic reasoning to enable efficient and
+accurate data analysis. They use a method called "symbolic-statistical learning" which combines the strengths of both
+symbolic reasoning and statistical learning.
+
+In Symbolic-Statistical Learning, the system starts by using statistical methods to learn patterns from data and
+generates a set of symbolic rules. These rules are then refined and pruned using a combination of symbolic reasoning,
+mathematical optimization and user feedback. This approach allows the system to automatically discover and distill the
+underlying structure and relationships in the data, making it more accurate, interpretable and efficient than
+traditional machine learning methods alone. Finch's technology uses a combination of symbolic reasoning and statistical
+learning to perform data analysis and AI tasks. They claim that their technology is able to generate models that are
+both more accurate and more interpretable than traditional machine learning methods, and can also handle large and
+complex datasets.
+
+RandomForestRegressor is utilized for values that are numeric and singular in return.
